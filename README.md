@@ -1,1 +1,1 @@
-# check-cpu-gpu-discord
+# **ใส่โทเค็น ใน token.txt อะไอสัส **
